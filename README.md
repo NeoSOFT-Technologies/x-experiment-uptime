@@ -1,6 +1,6 @@
 # [📈 Live Status](https://neosoft-technologies.github.io/x-experiment-uptime): <!--live status--> **🟥 Complete outage**
 
-This repository contains the open-source uptime monitor and status page for [Sandeep Sachan](https://www.linkedin.com/in/sandeepsachan), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [NeoSOFT Tech](https://www.neosofttech.com/), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/neosoft-technologies/x-experiment-uptime/workflows/Uptime%20CI/badge.svg)](https://github.com/neosoft-technologies/x-experiment-uptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/neosoft-technologies/x-experiment-uptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/neosoft-technologies/x-experiment-uptime/actions?query=workflow%3A%22Response+Time+CI%22)
@@ -25,5 +25,5 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 ## 📄 License
 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
-- Code: [MIT](./LICENSE) © [Sandeep Sachan](https://www.linkedin.com/in/sandeepsachan)
+- Code: [MIT](./LICENSE) © [https://www.neosofttech.com/](https://www.neosofttech.com/)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
