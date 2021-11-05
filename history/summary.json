@@ -5,21 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/www.neosofttech.com",
     "slug": "nst",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.71%",
-    "uptimeMonth": "99.45%",
-    "uptimeYear": "99.79%",
-    "time": 630,
-    "timeDay": 492,
-    "timeWeek": 783,
-    "timeMonth": 802,
-    "timeYear": 630,
+    "uptimeMonth": "99.47%",
+    "uptimeYear": "99.81%",
+    "time": 631,
+    "timeDay": 703,
+    "timeWeek": 810,
+    "timeMonth": 810,
+    "timeYear": 631,
     "dailyMinutesDown": {
-      "2021-11-02": 231,
-      "2021-10-20": 8,
-      "2021-09-19": 9,
-      "2021-08-11": 9
+      "2021-11-02": 231
     }
   }
 ]
